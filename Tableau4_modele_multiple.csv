@@ -1,0 +1,11 @@
+,coef,std_err,t,p_value
+const,-46139.7002,5908.2589,-7.8094,0.0
+Surface_m2,4.2551,0.2134,19.9407,0.0
+Distance_centre_km,-6.9778,0.7297,-9.5621,0.0
+Revenu_median_quartier,2.9893,0.8728,3.4247,0.0008
+Distance_universite,3.2584,1.9353,1.6836,0.0945
+Chambres,36.4225,7.4741,4.8732,0.0
+Ascenseur,53.3182,13.0958,4.0714,0.0001
+Qualite_ecole,21.8418,4.6021,4.746,0.0
+Annee_vente,21.837,2.8435,7.6797,0.0
+Annee_construction,1.6451,0.5577,2.9498,0.0037
